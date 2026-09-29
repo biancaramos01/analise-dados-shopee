@@ -1,0 +1,26 @@
+# Dados privados/originais
+dados_brutos/
+dados_tratados/
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+*.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Configurações locais
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Notebook original e arquivos intermediários
+python/analise_shopee.ipynb
+python/ads_tratados_csv
+python/custos_tratados_csv
+python/vendas_tratadas_csv
