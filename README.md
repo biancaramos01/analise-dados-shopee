@@ -161,10 +161,12 @@ Os arquivos `vendas.csv`, `ads.csv` e `custos.csv` representam as bases tratadas
 
 ## ▶️ Como executar o projeto
 
-Clone o repositório e instale as dependências:
+```markdown
+Clone o repositório:
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/biancaramos01/analise-dados-shopee.git
+cd analise-dados-shopee
 ```
 
 Depois, abra:
